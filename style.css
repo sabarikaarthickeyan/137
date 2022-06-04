@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    border-radius: 20px;
+    font-size: 24px;
+    color: black;
+}
+#body{
+    background-size: cover;
+}
+#text1{
+    width: 300px;
+    border-color: cyan;
+    border-style: dashed;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    border-color: aqua  ;
+    border-style: dotted;
+    
+}
